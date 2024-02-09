@@ -4,7 +4,7 @@ function myFavoriteColor () {
 }
 
 function myFavoritePlace () {
-    alert("My favorite place is American Fork Canyo.");
+    alert("My favorite place is American Fork Canyon.");
 }
 
 function myFavoriteRitual () {
@@ -13,9 +13,10 @@ function myFavoriteRitual () {
 
 
 
+
 let buttonColor = document.querySelector("#color");
-let buttonPlace = document.querySelector("#place")
-let buttonRitual = document.querySelector("#ritual")
+let buttonPlace = document.querySelector("#place");
+let buttonRitual = document.querySelector("#ritual");
 
 
 
